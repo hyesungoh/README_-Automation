@@ -6,6 +6,6 @@
 
     - README 파일 수정 자동화
 
-## [AUto Post Maker](../master/Post_Maker)
+## [Auto Post Maker](../master/Post_Maker)
 
     - README 파일 기준 md 파일 자동 생성
